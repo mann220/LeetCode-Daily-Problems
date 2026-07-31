@@ -15,6 +15,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0628-maximum-product-of-three-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -81,6 +82,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -197,4 +200,16 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
