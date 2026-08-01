@@ -1,12 +1,16 @@
 class Solution {
 public:
-    bool f(int i,int j,vector<int> &nums,int a,int b,bool flag){
-        if(i>j) return a>=b;
-        if(flag) return f(i+1,j,nums,a+nums[i],b,false) || f(i,j-1,nums,a+nums[j],b,false);
-        return f(i+1,j,nums,a,b+nums[i],true) && f(i,j-1,nums,a,b+nums[j],true);
+    int f(int i,int j,vector<int> &nums){
+        if(i>j) return 0;
+        int take1=nums[i]+min(f(i+2,j,nums),f(i+1,j-1,nums));
+        int take2=nums[j]+min(f(i,j-2,nums),f(i+1,j-1,nums));
+        return max(take1,take2);
     }
     bool predictTheWinner(vector<int>& nums) {
         int n=nums.size();
-        return f(0,n-1,nums,0,0,true);
+        int sum=accumulate(nums.begin(),nums.end(),0);
+        int plyr1=f(0,n-1,nums);
+        int plyr2=sum-plyr1;
+        return plyr1>=plyr2;
     }
 };
