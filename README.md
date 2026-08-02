@@ -12,6 +12,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
+| [0554-brick-wall](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
@@ -37,6 +38,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
