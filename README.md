@@ -76,6 +76,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +154,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +180,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
