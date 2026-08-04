@@ -11,9 +11,7 @@ public:
             ans+=mpp[mask];
             for(char ch='a';ch<='j';ch++){
                 int xr=(mask ^ (1<<(ch-'a')));
-                if(mpp.find(xr)!=mpp.end()){
-                    ans+=mpp[xr];
-                }
+                ans+=mpp[xr];
             }
             mpp[mask]++;
         }
