@@ -4,7 +4,7 @@ public:
         int n=grid.size();
         int m=grid[0].size();
         vector<vector<int>> dist(n,vector<int> (m,INT_MAX));
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<>> pq;
+        queue<pair<int,pair<int,int>>> pq;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==1){
@@ -18,9 +18,9 @@ public:
         vector<int> dr2={0,-1,0,1};
         int ans=INT_MIN;
         while(!pq.empty()){
-            int d=pq.top().first;
-            int i=pq.top().second.first;
-            int j=pq.top().second.second;
+            int d=pq.front().first;
+            int i=pq.front().second.first;
+            int j=pq.front().second.second;
             pq.pop();
             ans=max(ans,d);
             for(int k=0;k<4;k++){
