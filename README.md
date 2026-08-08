@@ -9,6 +9,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0045-jump-game-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -99,6 +100,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -120,6 +122,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -255,6 +258,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Segment Tree
@@ -274,6 +278,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
