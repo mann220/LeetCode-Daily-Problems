@@ -24,6 +24,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1024-video-stitching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-two-city-scheduling](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1029-two-city-scheduling) |
+| [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -135,6 +136,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Breadth-First Search
 |  |
 | ------- |
+| [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -183,6 +185,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -263,6 +266,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
+| [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Segment Tree
