@@ -2,14 +2,12 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
-        int val=0;
-        for(int i=0;i<32;i++){
-            int cnt=0;
-            for(int j=0;j<n;j++){
-                if(nums[j]& (1<<i)) cnt++;
-            }
-            if(cnt%3!=0) val|=(1<<i);
+        int one=0;
+        int two=0;
+        for(int i=0;i<n;i++){
+            one=(one^nums[i])&(~two);
+            two=(two^nums[i])&(~one);
         }
-        return val;
+        return one;
     }
 };
