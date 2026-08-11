@@ -11,6 +11,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0057-insert-interval](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +228,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
