@@ -44,6 +44,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -70,6 +71,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -146,6 +148,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
