@@ -139,6 +139,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -228,6 +229,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
@@ -393,6 +395,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Concurrency
