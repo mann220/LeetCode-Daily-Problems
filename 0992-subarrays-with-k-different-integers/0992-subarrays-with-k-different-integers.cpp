@@ -4,13 +4,14 @@ public:
 
     // here the logic is we have to find at subarray which contains k different integers so we find here at most k different integer and then at most k-1 different integer then subtract them.
     int f(vector<int> &nums,int k){
+        if(k==0) return 0;
         int n=nums.size();
         int i=0;
         int j=0;
         int cnt=0;
         unordered_map<int,int> mpp;
         while(j<n){
-            if(mpp.size()<=k) mpp[nums[j]]++;
+            mpp[nums[j]]++;
             while(i<=j && mpp.size()>k){
                 mpp[nums[i]]--;
                 if(mpp[nums[i]]==0) mpp.erase(nums[i]);
