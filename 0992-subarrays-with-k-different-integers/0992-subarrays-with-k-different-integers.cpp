@@ -23,9 +23,7 @@ public:
     }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         int val1=f(nums,k);
-        cout<<val1<<endl;
         int val2=f(nums,k-1);
-        cout<<val2<<endl;
         return val1-val2;
     }
 };
