@@ -15,7 +15,7 @@ public:
             ans=ans | f(i,j+2,s,p);
             if(s[i]==p[j] || p[j]=='.') ans=ans | f(i+1,j,s,p);
         }
-        else if(s[i]==p[j] || p[j]=='.') ans=ans | f(i+1,j+1,s,p);
+        else if(s[i]==p[j] || p[j]=='.')ans=ans | f(i+1,j+1,s,p);
         return dp[i][j]=ans;
     }
     bool isMatch(string s, string p) {
