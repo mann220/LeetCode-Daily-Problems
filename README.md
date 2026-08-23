@@ -261,6 +261,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1563-stone-game-v](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -497,4 +498,8 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Graph Coloring
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
