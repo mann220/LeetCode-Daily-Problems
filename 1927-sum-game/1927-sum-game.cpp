@@ -44,7 +44,6 @@ public:
                 l2sum+=(s[i]-'0');
             }
         }
-        cout<<f1sum<<" "<<l1sum<<" "<<f2sum<<" "<<l2sum;
         return (f1sum<l1sum || f2sum>l2sum);
     }
 };
