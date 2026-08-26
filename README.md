@@ -7,6 +7,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
@@ -74,6 +75,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0041-first-missing-positive) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0525-contiguous-array) |
