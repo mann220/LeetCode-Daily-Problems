@@ -79,6 +79,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0525-contiguous-array) |
@@ -163,6 +164,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
+| [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -186,6 +188,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
