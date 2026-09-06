@@ -176,6 +176,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0647-palindromic-substrings) |
@@ -281,6 +282,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
