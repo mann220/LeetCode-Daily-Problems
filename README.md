@@ -35,6 +35,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1049-last-stone-weight-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
@@ -298,6 +299,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1510-stone-game-iv) |
