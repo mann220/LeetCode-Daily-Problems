@@ -103,6 +103,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -141,6 +142,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1927-sum-game) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -162,6 +164,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -190,6 +193,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-number-of-unique-good-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -357,6 +361,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1872-stone-game-viii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1927-sum-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -390,6 +395,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Combinatorics
 |  |
 | ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -613,4 +619,8 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1044-longest-duplicate-substring) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 <!---LeetCode Topics End-->
