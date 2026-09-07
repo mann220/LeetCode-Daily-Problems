@@ -181,6 +181,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1044-longest-duplicate-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -294,6 +295,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0647-palindromic-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1024-video-stitching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
