@@ -60,6 +60,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -428,6 +429,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1872-stone-game-viii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1872-stone-game-viii) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -535,6 +537,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
@@ -542,6 +545,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Hungarian Algorithm
 |  |
