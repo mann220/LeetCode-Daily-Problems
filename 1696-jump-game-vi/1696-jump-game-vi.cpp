@@ -9,7 +9,7 @@ public:
         for(int i=n-2;i>=0;i--){
             while(!pq.empty() && pq.top().second>i+k) pq.pop();
             auto [val,ind]=pq.top();
-            dp[i]=nums[i]+dp[ind];
+            dp[i]=nums[i]+val;
             pq.push({dp[i],i});
         }
         return dp[0];
