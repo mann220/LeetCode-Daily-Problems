@@ -1,21 +1,22 @@
 class Solution {
 public:
-    set<int> st;
-    void f(int i,string s,int mask,vector<int> &digits){
-        if(i==3){
-            int val=stoi(s);
-            if(val>=100 && val%2==0) st.insert(val);
-            return;
-        }
-        for(int j=0;j<digits.size();j++){
-            if(mask & (1<<j)) continue;
-            char ch=digits[j]+'0';
-            f(i+1,s+ch,mask | (1<<j),digits); 
-        }
-        return;
-    }
     int totalNumbers(vector<int>& digits) {
-        f(0,"",0,digits);
-        return st.size();
+        vector<int> freq(10,0);
+        for(int i=0;i<digits.size();i++) freq[digits[i]]++;
+        int ans=0;
+        for(int i=1;i<=9;i++){
+            for(int j=0;j<=9;j++){
+                for(int k=0;k<=9;k+=2){
+                    freq[i]--;
+                    freq[k]--;
+                    freq[j]--;
+                    if(freq[i]>=0 && freq[j]>=0 && freq[k]>=0) ans++;
+                    freq[i]++;
+                    freq[k]++;
+                    freq[j]++;
+                }
+            }
+        }
+        return ans;
     }
 };
