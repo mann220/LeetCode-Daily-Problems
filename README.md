@@ -38,6 +38,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1386-cinema-seat-allocation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -317,6 +318,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1049-last-stone-weight-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1510-stone-game-iv) |
@@ -446,6 +448,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
