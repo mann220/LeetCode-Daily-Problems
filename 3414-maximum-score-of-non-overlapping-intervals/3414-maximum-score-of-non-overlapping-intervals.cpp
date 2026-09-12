@@ -1,7 +1,6 @@
 class Solution {
 public:
     #define ll long long
-    vector<int> next;
     struct Node{
         ll val=-1;
         vector<int> ind;
@@ -25,7 +24,7 @@ public:
         if(i==intervals.size() || cnt==0) return Node();
         if(dp[i][cnt].val!=-1) return dp[i][cnt];
         Node nttake=f(i+1,cnt,intervals);
-        int nextIndex=next[i];
+        int nextIndex=search(i,intervals);
         Node temp=f(nextIndex,cnt-1,intervals);
         Node take;
         take.val=1LL*intervals[i][2]+temp.val;
@@ -43,8 +42,6 @@ public:
         for(int i=0;i<n;i++) intervals[i].push_back(i);
         sort(intervals.begin(),intervals.end());
         dp=vector<vector<Node>> (n,vector<Node> (5));
-        next=vector<int> (n);
-        for(int i=0;i<n;i++) next[i]=search(i,intervals);
         return f(0,4,intervals).ind;
     }
 };
