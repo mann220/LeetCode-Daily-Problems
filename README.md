@@ -14,6 +14,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -94,6 +95,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0041-first-missing-positive](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0525-contiguous-array) |
@@ -193,6 +195,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0647-palindromic-substrings) |
@@ -309,6 +312,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
@@ -611,10 +615,12 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Brute-Force Search
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Graph Coloring
 |  |
@@ -684,4 +690,8 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
