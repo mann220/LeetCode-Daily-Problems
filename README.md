@@ -67,6 +67,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -279,6 +280,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -539,6 +541,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
+| [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -556,6 +559,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
