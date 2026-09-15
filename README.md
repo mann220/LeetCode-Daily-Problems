@@ -159,6 +159,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -215,6 +216,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-number-of-unique-good-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -294,6 +296,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -352,6 +355,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1987-number-of-unique-good-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1987-number-of-unique-good-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
