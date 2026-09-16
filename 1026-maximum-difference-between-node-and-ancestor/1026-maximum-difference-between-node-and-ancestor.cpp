@@ -11,27 +11,16 @@
  */
 class Solution {
 public:
-    int ans;
-    int maxi;
-    int mini;
-    void f(TreeNode* root){
-        if(root==NULL) return;
-        int maxi1=maxi;
-        int mini1=mini;
+    int f(TreeNode* root,int maxi,int mini){
+        if(root==NULL) return 0;
         maxi=max(maxi,root->val);
         mini=min(mini,root->val);
-        ans=max(ans,maxi-mini);
-        f(root->left);
-        f(root->right);
-        maxi=maxi1;
-        mini=mini1;
-        return;
+        int ans=maxi-mini;
+        ans=max(ans,f(root->left,maxi,mini));
+        ans=max(ans,f(root->right,maxi,mini));
+        return ans;
     }
     int maxAncestorDiff(TreeNode* root) {
-        ans=0;
-        maxi=0;
-        mini=1e9;
-        f(root);
-        return ans;
+        return f(root,0,1e9);
     }
 };
