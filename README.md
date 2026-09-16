@@ -249,6 +249,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -573,6 +574,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Tree
 |  |
 | ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
@@ -721,6 +723,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Binary Tree
 |  |
 | ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
