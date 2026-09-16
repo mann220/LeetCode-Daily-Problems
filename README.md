@@ -64,6 +64,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -357,6 +358,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1987-number-of-unique-good-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -377,6 +379,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -509,6 +512,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
@@ -516,6 +520,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Queue
 |  |
 | ------- |
