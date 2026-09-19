@@ -412,6 +412,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0836-rectangle-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1510-stone-game-iv) |
@@ -742,6 +743,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
 | ------- |
