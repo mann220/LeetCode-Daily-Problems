@@ -113,6 +113,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
+| [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -188,6 +189,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
+| [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -221,6 +223,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0940-distinct-subsequences-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1044-longest-duplicate-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
@@ -275,6 +278,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -540,6 +544,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
+| [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -616,6 +621,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
