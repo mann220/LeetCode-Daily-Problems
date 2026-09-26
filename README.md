@@ -60,6 +60,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1590-make-sum-divisible-by-p](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1696-jump-game-vi) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1872-stone-game-viii) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -122,6 +123,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -226,6 +228,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
