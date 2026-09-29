@@ -40,7 +40,7 @@ public:
                 q.push(i+1);
             }
             int p=nums[i];
-            if(p<=maxi && spf[p]==p && !vis[p]){
+            if(spf[p]==p && !vis[p]){
                 vis[p]=true;
                 for(auto j:mpp[p]){
                     if(dist[i]+1<dist[j]){
