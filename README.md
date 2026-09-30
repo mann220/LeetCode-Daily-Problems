@@ -27,6 +27,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [0835-image-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
@@ -616,6 +617,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -634,6 +636,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -649,6 +652,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -754,6 +758,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -769,6 +774,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Binary Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
@@ -793,4 +799,8 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0092-reverse-linked-list-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
