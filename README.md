@@ -56,6 +56,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1562-find-latest-group-of-size-m](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1563-stone-game-v](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -126,6 +127,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1562-find-latest-group-of-size-m](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1590-make-sum-divisible-by-p](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -351,6 +353,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1562-find-latest-group-of-size-m](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -487,6 +490,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
+| [1562-find-latest-group-of-size-m](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
