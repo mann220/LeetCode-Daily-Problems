@@ -224,6 +224,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
@@ -369,6 +370,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
@@ -655,6 +657,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
@@ -813,6 +816,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0020-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
