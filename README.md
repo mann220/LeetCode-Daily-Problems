@@ -105,6 +105,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3876-construct-uniform-parity-array-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3718-smallest-missing-multiple-of-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3731-find-missing-elements) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -191,6 +193,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Sorting
 |  |
 | ------- |
@@ -597,6 +600,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1696-jump-game-vi) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Ordered Set
 |  |
 | ------- |
