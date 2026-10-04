@@ -26,6 +26,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -170,6 +171,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0134-gas-station](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0134-gas-station) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1024-video-stitching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1024-video-stitching) |
@@ -201,6 +203,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
@@ -564,6 +567,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0630-course-schedule-iii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
