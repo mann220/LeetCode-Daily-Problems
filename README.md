@@ -136,6 +136,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1590-make-sum-divisible-by-p](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -258,6 +259,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -338,6 +340,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -417,6 +420,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1696-jump-game-vi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1696-jump-game-vi) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1872-stone-game-viii) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -528,6 +532,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -641,6 +646,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 ## Recursion
 |  |
@@ -747,6 +753,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -855,4 +862,8 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
