@@ -242,6 +242,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0567-permutation-in-string) |
@@ -314,6 +315,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
@@ -601,6 +603,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0022-generate-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
