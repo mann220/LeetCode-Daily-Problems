@@ -4,15 +4,15 @@ public:
     // i have to make states which is
     // f(i,k) ==> best way to put k mail boxes upto index i  
     vector<vector<int>> dp; 
-    int f(int i,int k,vector<int> &houses,vector<vector<int>> &cost){
-        int n=houses.size();
-        if(i==n && k==0) return 0;
-        if(k==0 || i==n) return 1e7;
-        if(dp[i][k]!=-1) return dp[i][k];
-        int ans=1e7;
-        for(int x=i;x<n;x++) ans=min(ans,cost[i][x]+f(x+1,k-1,houses,cost));
-        return dp[i][k]=ans;
-    }
+    // int f(int i,int k,vector<int> &houses,vector<vector<int>> &cost){
+    //     int n=houses.size();
+    //     if(i==n && k==0) return 0;
+    //     if(k==0 || i==n) return 1e7;
+    //     if(dp[i][k]!=-1) return dp[i][k];
+    //     int ans=1e7;
+    //     for(int x=i;x<n;x++) ans=min(ans,cost[i][x]+f(x+1,k-1,houses,cost));
+    //     return dp[i][k]=ans;
+    // }
     int minDistance(vector<int>& houses, int k) {
         int n=houses.size();
         sort(houses.begin(),houses.end());
@@ -25,7 +25,15 @@ public:
                 }
             }
         }
-        dp=vector<vector<int>> (n+1,vector<int> (k+1,-1));
-        return f(0,k,houses,cost);
+        dp=vector<vector<int>> (n+1,vector<int> (k+1,1e7));
+        dp[n][0]=0;
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j<=k;j++){
+                for(int x=i;x<n;x++){
+                    dp[i][j]=min(dp[i][j],cost[i][x]+dp[x+1][j-1]);
+                }
+            }
+        }
+        return dp[0][k];
     }
 };
