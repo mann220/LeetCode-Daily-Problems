@@ -30,6 +30,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0741-cherry-pickup](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0835-image-overlap) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
@@ -409,6 +410,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0647-palindromic-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0741-cherry-pickup) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -575,6 +577,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0741-cherry-pickup](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0835-image-overlap) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
