@@ -4,14 +4,15 @@ public:
         int n=s.size();
         int val=0;
         string ans="";
+        stack<char> st;
         for(int i=0;i<n;i++){
             if(s[i]=='('){
-                if(val>0) ans+=s[i];
-                val++;
+                st.push(s[i]);
+                if(st.size()>=2) ans+=s[i];
             }
             else{
-                val--;
-                if(val>0) ans+=s[i];
+                if(st.size()>=2) ans+=s[i];
+                st.pop();
             }
         }
         return ans;
