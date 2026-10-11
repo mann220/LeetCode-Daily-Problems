@@ -86,6 +86,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,6 +169,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [1291-sequential-digits](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1291-sequential-digits) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3483-unique-3-digit-even-numbers) |
