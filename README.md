@@ -191,6 +191,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0630-course-schedule-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1024-video-stitching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1024-video-stitching) |
@@ -327,6 +328,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
+| [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
@@ -345,6 +347,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
@@ -360,6 +363,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Union-Find
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
@@ -369,6 +373,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Graph Theory
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
