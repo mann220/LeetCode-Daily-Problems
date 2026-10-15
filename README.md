@@ -17,6 +17,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0137-single-number-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -330,6 +331,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -348,6 +350,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
@@ -375,6 +378,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
@@ -436,6 +440,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0115-distinct-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0526-beautiful-arrangement) |
@@ -613,6 +618,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0085-maximal-rectangle) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0835-image-overlap) |
@@ -702,6 +708,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1462-course-schedule-iv) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2360-longest-cycle-in-a-graph) |
@@ -813,6 +820,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Brute-Force Search
@@ -930,6 +938,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Kosaraju's Algorithm
 |  |
