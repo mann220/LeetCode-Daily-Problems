@@ -84,6 +84,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -250,6 +251,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1998-gcd-sort-of-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1998-gcd-sort-of-an-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2008-maximum-earnings-from-taxi) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -431,6 +433,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2008-maximum-earnings-from-taxi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
