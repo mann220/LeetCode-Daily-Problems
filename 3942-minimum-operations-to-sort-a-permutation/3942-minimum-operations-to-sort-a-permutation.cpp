@@ -9,7 +9,7 @@ public:
             else cnt2++;
             if(nums[i]==0) ind=i;
         }
-        if(cnt1>1 && cnt2>2) return -1;
+        if(cnt1>1 && cnt2>1) return -1;
         if(cnt2<=1){                // the array is in ascending order
             ans=min(ans,ind);
             ans=min(ans,n-ind+2);
@@ -18,6 +18,6 @@ public:
             ans=min(ans,ind+2);
             ans=min(ans,n-ind);
         }
-        return ans==INT_MAX ? -1:ans;
+        return ans;
     }
 };
