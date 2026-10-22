@@ -125,6 +125,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3886-sum-of-sortable-integers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Hash Table
 |  |
