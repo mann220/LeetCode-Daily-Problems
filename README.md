@@ -349,6 +349,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0079-word-search](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0765-couples-holding-hands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0765-couples-holding-hands) |
+| [0968-binary-tree-cameras](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1254-number-of-closed-islands) |
@@ -474,6 +475,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [0968-binary-tree-cameras](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0968-binary-tree-cameras) |
 | [0996-number-of-squareful-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0996-number-of-squareful-arrays) |
 | [1024-video-stitching](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
@@ -758,6 +760,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0998-maximum-binary-tree-ii) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -932,6 +935,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0998-maximum-binary-tree-ii) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -986,6 +990,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## DP on Trees
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Shortest Path
 |  |
