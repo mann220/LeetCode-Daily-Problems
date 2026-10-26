@@ -117,6 +117,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -365,6 +366,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2685-count-the-number-of-complete-components](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -384,6 +386,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -397,6 +400,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -663,6 +667,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Segment Tree
 |  |
 | ------- |
