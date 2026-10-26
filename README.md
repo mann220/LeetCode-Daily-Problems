@@ -89,6 +89,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2312-selling-pieces-of-wood](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2312-selling-pieces-of-wood) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -504,6 +505,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1987-number-of-unique-good-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 | [2008-maximum-earnings-from-taxi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2312-selling-pieces-of-wood](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2312-selling-pieces-of-wood) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -857,6 +859,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2312-selling-pieces-of-wood](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2312-selling-pieces-of-wood) |
 ## Brute-Force Search
 |  |
 | ------- |
