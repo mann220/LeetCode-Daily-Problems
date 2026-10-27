@@ -103,6 +103,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -230,6 +231,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -264,6 +266,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -430,6 +433,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -512,6 +516,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2312-selling-pieces-of-wood](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2312-selling-pieces-of-wood) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
