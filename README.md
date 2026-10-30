@@ -336,6 +336,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -430,6 +431,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2685-count-the-number-of-complete-components](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -708,6 +710,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1025,6 +1028,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## 0-1 BFS
 |  |
 | ------- |
