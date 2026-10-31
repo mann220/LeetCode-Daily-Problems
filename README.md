@@ -122,6 +122,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -535,6 +536,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3524-find-x-value-of-array-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -686,6 +688,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Segment Tree
 |  |
 | ------- |
