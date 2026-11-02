@@ -18,6 +18,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0139-word-break](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0139-word-break) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0502-ipo) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -565,6 +566,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0043-multiply-strings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0060-permutation-sequence) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
