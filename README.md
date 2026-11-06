@@ -53,6 +53,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1254-number-of-closed-islands](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -260,6 +261,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1029-two-city-scheduling](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
 | [1096-brace-expansion-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1478-allocate-mailboxes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -446,6 +448,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -462,6 +465,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1044-longest-duplicate-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
