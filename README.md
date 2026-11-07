@@ -80,6 +80,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -726,6 +727,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1696-jump-game-vi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1696-jump-game-vi) |
+| [1882-process-tasks-using-servers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
