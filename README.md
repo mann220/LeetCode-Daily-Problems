@@ -117,6 +117,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -374,6 +375,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
@@ -700,6 +702,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
