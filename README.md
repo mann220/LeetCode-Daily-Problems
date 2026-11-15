@@ -65,6 +65,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1478-allocate-mailboxes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -539,6 +540,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1478-allocate-mailboxes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1563-stone-game-v](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1563-stone-game-v) |
@@ -611,6 +613,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1478-allocate-mailboxes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -692,6 +695,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0560-subarray-sum-equals-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
