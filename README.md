@@ -341,6 +341,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-number-of-unique-good-subsequences](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -664,6 +665,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1260-shift-2d-grid](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1260-shift-2d-grid) |
 | [1562-find-latest-group-of-size-m](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1562-find-latest-group-of-size-m) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
