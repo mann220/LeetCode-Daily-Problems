@@ -1,16 +1,31 @@
 class Solution {
 public:
-    int mod=1e9+7;
     #define ll long long
-    int numTilings(int n) {
-        vector<ll> dp(1001);
-        dp[0]=0;
-        dp[1]=1;
-        dp[2]=2;
-        dp[3]=5;
-        for(int i=4;i<=n;i++){
-            dp[i]=(2LL*dp[i-1]+dp[i-3])%mod;
+    int mod=1e9+7;
+    int dp[1001][1001];
+    int f(int r1,int r2){
+        if(r1==0 && r2==0) return 1;
+        if(r1<=0 || r2<=0) return 0;
+        if(dp[r1][r2]!=-1) return dp[r1][r2];
+        ll ans=0;
+        if(r1==r2){
+            ans+=f(r1-1,r2-1); // vertical tile 
+            ans+=f(r1-2,r2-2); // horizontal tile on both r1 and r2 
+            ans+=f(r1-2,r2-1); // this type of shape=> |`
+            ans+=f(r1-1,r2-2); // this type of shape=> _|
         }
-        return dp[n];
+        else if(r1>r2){
+            ans+=f(r1-2,r2);
+            ans+=f(r1-2,r2-1);
+        }
+        else{
+            ans+=f(r1,r2-2); 
+            ans+=f(r1-1,r2-2);
+        }
+        return dp[r1][r2]=ans%mod;
+    }
+    int numTilings(int n) {
+        memset(dp,-1,sizeof(dp));
+        return f(n,n);
     }
 };
