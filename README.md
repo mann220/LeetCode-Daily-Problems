@@ -528,6 +528,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0650-2-keys-keyboard](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0741-cherry-pickup) |
+| [0790-domino-and-tromino-tiling](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0879-profitable-schemes) |
