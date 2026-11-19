@@ -37,6 +37,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0835-image-overlap) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0879-profitable-schemes) |
@@ -372,6 +373,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0567-permutation-in-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-longest-duplicate-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -493,6 +495,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0033-search-in-rotated-sorted-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0611-valid-triangle-number](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0611-valid-triangle-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1027-longest-arithmetic-subsequence) |
 | [1044-longest-duplicate-substring](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -709,6 +712,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0523-continuous-subarray-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -763,6 +767,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0502-ipo](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0630-course-schedule-iii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1054-distant-barcodes](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1054-distant-barcodes) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -801,6 +806,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1696-jump-game-vi) |
@@ -816,6 +822,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1696-jump-game-vi) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
