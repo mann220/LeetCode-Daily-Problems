@@ -102,6 +102,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2312-selling-pieces-of-wood](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2312-selling-pieces-of-wood) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2488-count-subarrays-with-median-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2488-count-subarrays-with-median-k) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2747-count-zero-request-servers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2747-count-zero-request-servers) |
@@ -186,6 +187,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2008-maximum-earnings-from-taxi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2488-count-subarrays-with-median-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2488-count-subarrays-with-median-k) |
 | [2747-count-zero-request-servers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -724,6 +726,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1915-number-of-wonderful-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1915-number-of-wonderful-substrings) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [2488-count-subarrays-with-median-k](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2488-count-subarrays-with-median-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3364-minimum-positive-sum-subarray) |
