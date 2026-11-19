@@ -101,6 +101,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2312-selling-pieces-of-wood](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2312-selling-pieces-of-wood) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2603-collect-coins-in-a-tree](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2603-collect-coins-in-a-tree) |
 | [2747-count-zero-request-servers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -247,6 +248,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -288,6 +290,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2008-maximum-earnings-from-taxi](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
