@@ -158,6 +158,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3904-smallest-stable-index-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Hash Table
 |  |
@@ -274,6 +275,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Sorting
 |  |
@@ -604,6 +606,7 @@ I also want to thank [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mann220/LeetCode-Daily-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
